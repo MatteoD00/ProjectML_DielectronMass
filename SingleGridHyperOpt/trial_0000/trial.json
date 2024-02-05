@@ -1,0 +1,1 @@
+{"trial_id": "0000", "hyperparameters": {"space": [{"class_name": "Choice", "config": {"name": "node0", "default": 32, "conditions": [], "values": [32, 64, 128, 256], "ordered": true}}], "values": {"node0": 32}}, "metrics": {"metrics": {}}, "score": null, "best_step": 0, "status": "RUNNING", "message": null}
